@@ -1,14 +1,6 @@
 # Module 1
 
 
-> When you start editing this file, remove this description.
->
-> Usually the first things you have to document are some inspirations hinting at what
-> you might be able to build in this class, a personal profile description regarding
-> programming expertise, previous MCU knowledge, creative qualities, and expectations
-
-Module description
-
 ## Task Inspirations
 
 - Something with smart power plugs (e.g. switching on/off based on current electricity price)
